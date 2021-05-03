@@ -1,0 +1,12 @@
+button {
+    margin-top: 50px;
+}
+*{
+    margin:  0;  
+    padding: 0; }
+
+#particles-js{background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0,5));
+              height: fit-content;
+              background-size: cover;
+              background-position: center;
+}
